@@ -1,0 +1,83 @@
+.contenedor{
+    align-content:space-around;
+    width: 20px;
+    height: 15px;
+    padding:30px;
+    text-decoration: none;
+
+}
+ul{
+    list-style: none;
+}
+#azul{
+    background-color: blue;
+    border:2px;
+    width: 100px;
+    height: 20px;
+    text-align: center; 
+
+}
+#celeste{
+    background-color: rgb(124, 183, 231);
+    border:2px;
+    width: 100px;
+    height: 20px;
+    text-align: center; 
+}
+#cele-agua  {
+    background-color: rgb(209, 238, 247);
+    border:2px;
+    width: 100px;
+    height: 20px;
+    text-align: center; 
+}
+#blanco{
+    background-color: rgb(245, 245, 245);
+    border:2px;
+    width: 100px;
+    height: 20px;
+    text-align: center; 
+}
+#amarillo{
+    background-color: rgb(217, 235, 54);
+    border:2px;
+    width: 100px;
+    height: 20px;
+    text-align: center; 
+}#amarillo-claro{
+     background-color: rgb(239, 253, 33);
+    border:2px;
+    width: 100px;
+    height: 20px;
+    text-align: center; 
+}#naranja-clar{
+    background-color: rgb(245, 154, 80);
+    border:2px;
+    width: 100px;
+    height: 20px;
+    text-align: center; 
+}
+#naranja{
+    background-color: rgb(253, 106, 8);
+    border:2px ;
+    width: 100px;
+    height: 20px;
+    text-align: center; 
+}#rojo-claro{
+    background-color: rgb(240, 106, 118);
+    border:2px ;
+    width: 100px;
+    height: 20px;
+    text-align: center; 
+}
+#rojo{
+    background-color: rgb(248, 19, 19);
+    border:2px ;
+    width: 100px;
+    height: 20px;
+    text-align: center; 
+}
+          
+          
+           
+          
